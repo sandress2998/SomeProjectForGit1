@@ -17,7 +17,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             SomeProjectForGitTheme {
-                // A surface contgfgfgававfainer using the 'background' color from the theme
+                // A surface contgfg using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
